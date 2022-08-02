@@ -3,7 +3,7 @@
   justify-content: center;
 }
 .width-div-for-offers {
-  width: 80em;
+  width: 75em;
 }
 .text-on-offer-cards {
   position: absolute;
@@ -51,4 +51,21 @@
 }
 .div-for-singlecard {
   position: relative;
+}
+
+@media (min-width: 320px) and (max-width: 425px) {
+  .flex-div-for-offers {
+    width: auto;
+  }
+  .heading-on-card {
+    font-size: 20px;
+    font-weight: 900;
+  }
+  .flex-div-for-cards {
+    display: block;
+  }
+  .div-for-singlecard {
+    /* position: relative; */
+    margin-top: 10px;
+  }
 }
