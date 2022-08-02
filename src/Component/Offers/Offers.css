@@ -1,0 +1,54 @@
+.flex-div-for-offers {
+  display: flex;
+  justify-content: center;
+}
+.width-div-for-offers {
+  width: 80em;
+}
+.text-on-offer-cards {
+  position: absolute;
+
+  top: 70px;
+  line-height: 2.5rem;
+  right: 30px;
+  direction: rtl;
+  color: white;
+}
+.text-on-offer-cards-2 {
+  position: absolute;
+  top: 70px;
+  line-height: 2.5rem;
+  right: 30px;
+  color: white;
+  text-align: center;
+}
+.text-on-offer-cards-3 {
+  position: absolute;
+  top: 70px;
+  line-height: 2.5rem;
+  right: 30px;
+  color: white;
+  direction: ltr;
+  padding: 0 0 0 10px;
+}
+.heading-on-card {
+  font-size: 38px;
+  font-weight: 900;
+}
+.img-in-cards {
+  /* background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent); */
+  /* background: linear-gradient(to left, #333, #333 50%, #333 75%, #333 75%); */
+  /* opacity: 0.8; */
+}
+.btn-on-card {
+  border-radius: 3px;
+  width: 125px;
+  background-color: #03764d;
+}
+.flex-div-for-cards {
+  display: flex;
+  gap: 20px;
+}
+.div-for-singlecard {
+  position: relative;
+}
