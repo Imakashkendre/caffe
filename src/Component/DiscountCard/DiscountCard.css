@@ -1,0 +1,29 @@
+.containing-two-main-cards-for-discount-info {
+  display: block;
+  justify-content: center;
+  /* text-align: center; */
+  width: 587px;
+  height: 560px;
+  /* align-items: center; */
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px 2px 18px -12px;
+}
+.for-discount-range-info p {
+  font-size: 28px;
+  font-weight: 500;
+  margin: 0;
+  padding: 16px 0 0 0px;
+}
+.some-text-after-discount-heading {
+}
+.button-for-claiming-discount button {
+  border: none;
+  background-color: orange;
+  height: 40px;
+  width: 127px;
+  color: antiquewhite;
+  border-radius: 2px;
+}
+.contain-heading-para-text-and-button {
+  padding: 0 36px;
+}
