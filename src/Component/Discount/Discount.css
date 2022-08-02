@@ -1,0 +1,19 @@
+.main-container-for-discounts-on-coffee-and-header {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0px;
+}
+.container-max-width-75-em {
+  width: 75em;
+}
+.containing-cards-for-discount {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 34px;
+}
+.heading-text-good-coffee {
+  text-align: center;
+  font-size: 48px;
+  font-weight: 500;
+}
