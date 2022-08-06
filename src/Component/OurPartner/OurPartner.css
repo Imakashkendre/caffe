@@ -1,0 +1,53 @@
+.flex-div-for-partners {
+  display: flex;
+  background-image: url('../../Assets/Images/nathan-dumlao-87r__24oABU-unsplash.jpg');
+  height: 650px;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+}
+.width-div-for-partner {
+  width: 75em;
+}
+.flex-content-div {
+  display: flex;
+  /* gap: 26px; */
+  justify-content: space-between;
+  width: 75em;
+  color: #fff;
+  /* text-align: center; */
+  align-items: center;
+}
+.logo-img-styling {
+  height: 90px;
+  width: 90px;
+}
+.logo-div-for-first-row {
+  display: flex;
+}
+.logo-div-for-sescond-row {
+  display: flex;
+}
+.partners-logo {
+  row-gap: 15px;
+}
+.wid-div-for-image {
+  width: 141px;
+  height: 120px;
+  border-right: 1px solid rgb(93 90 90 / 44%);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.wid-div-for-image-3 {
+  width: 141px;
+  height: 120px;
+  /* border-right: 1px solid rgb(93 90 90); */
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.heading-in-our-partner {
+  font-size: 55px;
+  font-weight: 900;
+}
