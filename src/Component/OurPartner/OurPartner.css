@@ -11,7 +11,7 @@
 }
 .flex-content-div {
   display: flex;
-  /* gap: 26px; */
+  gap: 90px;
   justify-content: space-between;
   width: 75em;
   color: #fff;

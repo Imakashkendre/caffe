@@ -16,7 +16,8 @@ const OurPartner = () => {
               <h2 className="heading-in-our-partner">They support us</h2>
               <p>
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Lorem
-                ipsum dolor, sit amet consectetur.
+                ipsum dolor, sit amet consectetur.sit amet consectetur
+                adipisicing elit.Lorem ipsum dolor, sit amet consectetur.
               </p>
             </div>
             <div className="partners-logo">
